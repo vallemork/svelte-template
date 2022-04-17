@@ -1,9 +1,9 @@
-<script>
-
+<script lang="ts">
+	let x = 4222
 </script>
 
 <main>
-	<h1>Hej. 🎅🏿🎅🏿🎅🏿</h1>
+	<h1>Hej. 🎅🏿🎅🏿🎅🏿{x}</h1>
 </main>
 
 <style lang="scss">
